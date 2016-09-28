@@ -37,8 +37,8 @@ class SFX():
         """
         login_url = 'http://www.freesfx.co.uk/login/'
         form_data = {
-            'username': 'Ruter8',
-            'password': 'ruter594120',
+            'username': 'xxxxx',
+            'password': 'xxxxx',
             'login': 'Log in'
         }
         self.session_requests.post(
